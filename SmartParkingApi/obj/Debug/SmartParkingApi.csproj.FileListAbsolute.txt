@@ -1,0 +1,4 @@
+C:\Users\Mostofa Al Amin\Desktop\.NET\SmartParkingApi\SmartParkingApi\obj\Debug\SmartParkingApi.csproj.AssemblyReference.cache
+C:\Users\Mostofa Al Amin\Desktop\.NET\SmartParkingApi\SmartParkingApi\obj\Debug\SmartParkingApi.csproj.CoreCompileInputs.cache
+D:\AIUB\ASP.NET\.NET\.NET_Smart_Parking_API\SmartParkingApi\obj\Debug\SmartParkingApi.csproj.AssemblyReference.cache
+D:\AIUB\ASP.NET\.NET\.NET_Smart_Parking_API\SmartParkingApi\obj\Debug\SmartParkingApi.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Users\Mostofa Al Amin\Desktop\.NET\SmartParkingApi\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Mostofa Al Amin\Desktop\.NET\SmartParkingApi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\AIUB\ASP.NET\.NET\.NET_Smart_Parking_API\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\AIUB\ASP.NET\.NET\.NET_Smart_Parking_API\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache

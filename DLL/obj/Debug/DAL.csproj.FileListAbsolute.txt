@@ -1,0 +1,2 @@
+C:\Users\Mostofa Al Amin\Desktop\.NET\SmartParkingApi\DLL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\AIUB\ASP.NET\.NET\.NET_Smart_Parking_API\DLL\obj\Debug\DAL.csproj.AssemblyReference.cache
